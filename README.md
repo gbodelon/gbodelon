@@ -2,9 +2,9 @@
 
 🚩 São Paulo, Brazil
 
-📚 Estudante Ciencia da Computação
+📚 Pós Graduação - Arquitetura de Software
 
-📚 Backend-Java Developer at MAGNA SISTEMAS
+📚 Technology Architect at Almaviva Solutions
 
  <div>
  
